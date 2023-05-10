@@ -1,17 +1,25 @@
-# Welcome to MkDocs
+# renderit
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This package is meant to render Youtube tutorial videos and reference site into the Colab or Jupyter notebooks for easy reference in future.
 
-## Commands
+- PYPI link for this package - [renderit](https://pypi.org/project/renderit/)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Getting Started
 
-## Project layout
+### Installation
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+!!! note "installation steps"
+    First let's do an easy pip installation of the library by running the following command -
+    ```bash
+    pip install renderit
+    ```
+
+
+### Quickstart
+Check the short video for quickstart - 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIzS0OB0qNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
